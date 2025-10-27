@@ -48,8 +48,15 @@ v1.0	완성형 UI, 아이콘 적용
 3시간 뒤 종료	10800초 후 PC 자동 종료
 취소하기	예약된 종료 취소
 
-🪶 License
-MIT License © 2025 Minho
+## 🪶 License
+
+MIT License © 2025 Minho  
 자유롭게 수정 및 배포 가능하며, 원작자 표기만 유지해주세요.
 
-<p align="center"> <img src="https://img.shields.io/badge/version-v0.1-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/status-Beta-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/made%20by-Minho-lightgrey?style=for-the-badge"> </p>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-v0.1-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/status-Beta-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/made%20by-Minho-lightgrey?style=for-the-badge">
+</p>
