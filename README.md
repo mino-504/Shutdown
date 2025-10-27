@@ -23,7 +23,6 @@
 ---
 
 ### 2️⃣ 실행
-```bash
 python shutdown.py
 또는 Windows에서 더블클릭 실행
 
